@@ -20,9 +20,9 @@
 
 <br />
 
-Hi, I'm [Mohamed Ashiq Faleel](https://ashiqf.com/), a passionate Solutions Architect & Microsoft 365 enthusiast. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I design and build.
+Hi, I'm [Mohamed Ashiq Faleel](https://ashiqf.com/), a passionate Solutions Architect & a Microsoft 365 enthusiast. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I design and build.
 
-I am a blogger and open-source contributor. I learned a lot from the community and I love how collaboration and knowledge sharing happens.
+I am a blogger, speaker and a open-source contributor. I have learnt a lot and learning from the community and I love how collaboration and knowledge sharing happens, it is my turn to give it back to the community. Sharing is Caring
 - 💬 Ask me about Power Automate, Power Apps, SharePoint, Microsoft 365
 - 📰 Read my blogs at: https://ashiqf.com/
 
