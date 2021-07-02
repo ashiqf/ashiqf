@@ -14,7 +14,7 @@
 <a href="https://www.youtube.com/channel/UC8jaFS5wRoWiJovftvBXcQw">
   <img align="left" alt="Mohamed Ashiq Faleel Youtube Channel" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" />
 </a>
-
+<br />
 ![](https://img.shields.io/badge/Microsoft-MCT-red)
 ![](https://img.shields.io/badge/Microsoft%20365-Consultant-orange)
 
