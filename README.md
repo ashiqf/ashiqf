@@ -22,9 +22,9 @@
 
 Hi, I'm [Mohamed Ashiq Faleel](https://ashiqf.com/), a passionate Solutions Architect & Microsoft 365 enthusiast. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I design and build.
 
-I am a blogger and open-source contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am a blogger and open-source contributor. I learned a lot from the community and I love how collaboration and knowledge sharing happens.
 - 💬 Ask me about Power Automate, Power Apps, SharePoint, Microsoft 365
-- 📰 Read my blogs at: https://ashiqf.com
+- 📰 Read my blogs at: https://ashiqf.com/
 
 📈 My GitHub Stats
 
