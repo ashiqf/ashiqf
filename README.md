@@ -29,3 +29,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashiqf&show_icons=true&theme=gotham" alt="ashiqf" />
+  
+### 📙 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
