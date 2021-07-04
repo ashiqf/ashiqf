@@ -30,11 +30,6 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashiqf&show_icons=true&theme=gotham" alt="ashiqf" />
   
-### 📙 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Control your Philips Hue Lights from Microsoft Power Platform and .NET](https://ashiqf.com/2021/06/25/control-your-philips-hue-lights-from-microsoft-power-platform-and-net/)
-- [Handle HTTP request failures in Power Automate](https://ashiqf.com/2021/06/12/handle-http-request-failures-in-power-automate/)
-- [How to invite external users to a SharePoint site or Microsoft Team using Power Automate and Graph API](https://ashiqf.com/2021/05/26/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft-team-using-power-automate-and-graph-api/)
-- [Cancel all your running Power Automate flow runs using M365 CLI and REST API](https://ashiqf.com/2021/05/16/cancel-all-your-running-power-automate-flow-runs-using-m365-cli-and-rest-api/)
-- [Resubmit your failed Power Automate flow runs automatically using M365 CLI and REST API](https://ashiqf.com/2021/05/09/resubmit-your-failed-power-automate-flow-runs-automatically-using-m365-cli-and-rest-api/)
-<!-- BLOG-POST-LIST:END -->
+### 📙 My Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
