@@ -16,8 +16,8 @@
 </a><br /><br />
 
 ![](https://img.shields.io/badge/Microsoft-MCT-red)
-![](https://img.shields.io/badge/Microsoft%20365-Consultant-red)
-![](https://img.shields.io/badge/Power%20Platform-Consultant-maroon)
+![](https://img.shields.io/badge/Microsoft%20365-Consultant-D03902)
+![](https://img.shields.io/badge/Power%20Platform-Consultant-702670)
 
 
 <br />
