@@ -34,6 +34,8 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Call Microsoft Graph API using a certificate in a Power Automate HTTP connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;05&#x2F;call-microsoft-graph-api-using-a-certificate-in-a-power-automate-http-connector&#x2F;)
+* [Handle SharePoint site creation response – The site address is unavailable](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;04&#x2F;handle-sharepoint-site-creation-response-the-site-address-is-unavailable&#x2F;)
 * [Control your Philips Hue Lights from Microsoft Power Platform and .NET](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;06&#x2F;25&#x2F;control-your-philips-hue-lights-from-microsoft-power-platform-and-net&#x2F;)
 * [Handle HTTP request failures in Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;06&#x2F;12&#x2F;handle-http-request-failures-in-power-automate&#x2F;)
 * [How to invite external users to a SharePoint site or Microsoft Team using Power Automate and Graph API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;26&#x2F;how-to-invite-external-users-to-a-sharepoint-site-or-microsoft-team-using-power-automate-and-graph-api&#x2F;)
@@ -42,6 +44,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Everything to know about Power Automate REST API to manage and administer your flows](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;09&#x2F;everything-to-know-about-power-automate-rest-api-to-manage-and-administer-your-flows&#x2F;)
 * [What is GraphQL and how to consume a GraphQL Query based API in Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;04&#x2F;25&#x2F;what-is-graphql-and-how-to-consume-a-graphql-query-based-api-in-power-automate&#x2F;)
 * [Call Microsoft Graph API as a daemon application with application permission from Power Automate using HTTP connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;03&#x2F;16&#x2F;call-microsoft-graph-api-as-a-daemon-application-with-application-permission-from-power-automate-using-http-connector&#x2F;)
-* [Call Microsoft Graph API as a signed in user with delegated permission in Power Automate or Azure Logic apps using HTTP Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;03&#x2F;16&#x2F;call-microsoft-graph-api-as-a-signed-in-user-with-delegated-permission-in-power-automate-or-azure-logic-apps-using-http-connector&#x2F;)
-* [Call Microsoft Graph API in Power Apps and Power Automate using a Custom connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;03&#x2F;16&#x2F;call-microsoft-graph-api-in-power-apps-and-power-automate-using-a-custom-connector&#x2F;)
 <!--END_SECTION:feed-->
