@@ -34,6 +34,8 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Call a SharePoint REST API as an Application in Power Automate HTTP Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;call-a-sharepoint-rest-api-as-an-application-in-power-automate-http-connector&#x2F;)
+* [Azure Key Vault in Power Automate cloud flow – Could not retrieve values](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;azure-key-vault-in-power-automate-cloud-flow-could-not-retrieve-values&#x2F;)
 * [Call Microsoft Graph API using a certificate in a Power Automate HTTP connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;05&#x2F;call-microsoft-graph-api-using-a-certificate-in-a-power-automate-http-connector&#x2F;)
 * [Handle SharePoint site creation response – The site address is unavailable](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;04&#x2F;handle-sharepoint-site-creation-response-the-site-address-is-unavailable&#x2F;)
 * [Control your Philips Hue Lights from Microsoft Power Platform and .NET](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;06&#x2F;25&#x2F;control-your-philips-hue-lights-from-microsoft-power-platform-and-net&#x2F;)
@@ -42,6 +44,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Cancel all your running Power Automate flow runs using M365 CLI and REST API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;16&#x2F;cancel-all-your-running-power-automate-flow-runs-using-m365-cli-and-rest-api&#x2F;)
 * [Resubmit your failed Power Automate flow runs automatically using M365 CLI and REST API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;09&#x2F;resubmit-your-failed-power-automate-flow-runs-automatically-using-m365-cli-and-rest-api&#x2F;)
 * [Everything to know about Power Automate REST API to manage and administer your flows](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;09&#x2F;everything-to-know-about-power-automate-rest-api-to-manage-and-administer-your-flows&#x2F;)
-* [What is GraphQL and how to consume a GraphQL Query based API in Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;04&#x2F;25&#x2F;what-is-graphql-and-how-to-consume-a-graphql-query-based-api-in-power-automate&#x2F;)
-* [Call Microsoft Graph API as a daemon application with application permission from Power Automate using HTTP connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;03&#x2F;16&#x2F;call-microsoft-graph-api-as-a-daemon-application-with-application-permission-from-power-automate-using-http-connector&#x2F;)
 <!--END_SECTION:feed-->
