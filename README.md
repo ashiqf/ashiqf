@@ -34,6 +34,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [How to use form-data and form-urlencoded content type in Power Automate or Logic Apps HTTP action](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;25&#x2F;how-to-use-form-data-and-form-urlencoded-content-type-in-power-automate-or-logic-apps-http-action&#x2F;)
 * [Call a SharePoint REST API as an Application in Power Automate HTTP Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;call-a-sharepoint-rest-api-as-an-application-in-power-automate-http-connector&#x2F;)
 * [Azure Key Vault in Power Automate cloud flow – Could not retrieve values](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;azure-key-vault-in-power-automate-cloud-flow-could-not-retrieve-values&#x2F;)
 * [Call Microsoft Graph API using a certificate in a Power Automate HTTP connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;05&#x2F;call-microsoft-graph-api-using-a-certificate-in-a-power-automate-http-connector&#x2F;)
@@ -43,5 +44,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [How to invite external users to a SharePoint site or Microsoft Team using Power Automate and Graph API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;26&#x2F;how-to-invite-external-users-to-a-sharepoint-site-or-microsoft-team-using-power-automate-and-graph-api&#x2F;)
 * [Cancel all your running Power Automate flow runs using M365 CLI and REST API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;16&#x2F;cancel-all-your-running-power-automate-flow-runs-using-m365-cli-and-rest-api&#x2F;)
 * [Resubmit your failed Power Automate flow runs automatically using M365 CLI and REST API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;09&#x2F;resubmit-your-failed-power-automate-flow-runs-automatically-using-m365-cli-and-rest-api&#x2F;)
-* [Everything to know about Power Automate REST API to manage and administer your flows](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;09&#x2F;everything-to-know-about-power-automate-rest-api-to-manage-and-administer-your-flows&#x2F;)
 <!--END_SECTION:feed-->
