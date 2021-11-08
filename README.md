@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [How to use form-urlencoded content type in Power Automate Custom Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;11&#x2F;07&#x2F;how-to-use-form-urlencoded-content-type-in-power-automate-custom-connector&#x2F;)
 * [Create a Power Automate custom connector from Postman V2 Collection](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;29&#x2F;create-a-power-automate-custom-connector-from-postman-v2-collection&#x2F;)
 * [How to use form-data and form-urlencoded content type in Power Automate or Logic Apps HTTP action](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;25&#x2F;how-to-use-form-data-and-form-urlencoded-content-type-in-power-automate-or-logic-apps-http-action&#x2F;)
 * [Call a SharePoint REST API as an Application in Power Automate HTTP Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;call-a-sharepoint-rest-api-as-an-application-in-power-automate-http-connector&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Control your Philips Hue Lights from Microsoft Power Platform and .NET](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;06&#x2F;25&#x2F;control-your-philips-hue-lights-from-microsoft-power-platform-and-net&#x2F;)
 * [Handle HTTP request failures in Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;06&#x2F;12&#x2F;handle-http-request-failures-in-power-automate&#x2F;)
 * [How to invite external users to a SharePoint site or Microsoft Team using Power Automate and Graph API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;26&#x2F;how-to-invite-external-users-to-a-sharepoint-site-or-microsoft-team-using-power-automate-and-graph-api&#x2F;)
-* [Cancel all your running Power Automate flow runs using M365 CLI and REST API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;05&#x2F;16&#x2F;cancel-all-your-running-power-automate-flow-runs-using-m365-cli-and-rest-api&#x2F;)
 <!--END_SECTION:feed-->
