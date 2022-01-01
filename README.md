@@ -35,6 +35,9 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Handling nonexistent, null and multi value type properties in Parse JSON action](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;handling-nonexistent-null-and-multi-value-type-properties-in-parse-json-action&#x2F;)
+* [Parse an array without using Parse JSON action in Power Automate cloud flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;parse-an-array-without-using-parse-json-action-in-power-automate-cloud-flow&#x2F;)
+* [Effective Audience Targeting for SharePoint online NEWS Post using Term Store and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;effective-audience-targeting-for-sharepoint-online-news-post-using-term-store-and-power-automate&#x2F;)
 * [Conditional Power Automate flow triggers for SharePoint Online Pages and NEWS Post](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;06&#x2F;conditional-power-automate-flow-triggers-for-sharepoint-online-pages-and-news-post&#x2F;)
 * [How to use form-urlencoded content type in Power Automate Custom Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;11&#x2F;07&#x2F;how-to-use-form-urlencoded-content-type-in-power-automate-custom-connector&#x2F;)
 * [Create a Power Automate custom connector from Postman V2 Collection](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;29&#x2F;create-a-power-automate-custom-connector-from-postman-v2-collection&#x2F;)
@@ -42,7 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Call a SharePoint REST API as an Application in Power Automate HTTP Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;call-a-sharepoint-rest-api-as-an-application-in-power-automate-http-connector&#x2F;)
 * [Azure Key Vault in Power Automate cloud flow – Could not retrieve values](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;azure-key-vault-in-power-automate-cloud-flow-could-not-retrieve-values&#x2F;)
 * [Call Microsoft Graph API using a certificate in a Power Automate HTTP connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;05&#x2F;call-microsoft-graph-api-using-a-certificate-in-a-power-automate-http-connector&#x2F;)
-* [Handle SharePoint site creation response – The site address is unavailable](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;04&#x2F;handle-sharepoint-site-creation-response-the-site-address-is-unavailable&#x2F;)
-* [Control your Philips Hue Lights from Microsoft Power Platform and .NET](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;06&#x2F;25&#x2F;control-your-philips-hue-lights-from-microsoft-power-platform-and-net&#x2F;)
-* [Handle HTTP request failures in Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;06&#x2F;12&#x2F;handle-http-request-failures-in-power-automate&#x2F;)
 <!--END_SECTION:feed-->
