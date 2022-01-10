@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Get deleted SharePoint site details using Microsoft Graph API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;01&#x2F;09&#x2F;get-deleted-sharepoint-site-details-using-microsoft-graph-api&#x2F;)
 * [Handling nonexistent, null and multi value type properties in Parse JSON action](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;handling-nonexistent-null-and-multi-value-type-properties-in-parse-json-action&#x2F;)
 * [Parse an array without using Parse JSON action in Power Automate cloud flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;parse-an-array-without-using-parse-json-action-in-power-automate-cloud-flow&#x2F;)
 * [Effective Audience Targeting for SharePoint online NEWS Post using Term Store and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;effective-audience-targeting-for-sharepoint-online-news-post-using-term-store-and-power-automate&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [How to use form-data and form-urlencoded content type in Power Automate or Logic Apps HTTP action](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;25&#x2F;how-to-use-form-data-and-form-urlencoded-content-type-in-power-automate-or-logic-apps-http-action&#x2F;)
 * [Call a SharePoint REST API as an Application in Power Automate HTTP Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;call-a-sharepoint-rest-api-as-an-application-in-power-automate-http-connector&#x2F;)
 * [Azure Key Vault in Power Automate cloud flow – Could not retrieve values](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;18&#x2F;azure-key-vault-in-power-automate-cloud-flow-could-not-retrieve-values&#x2F;)
-* [Call Microsoft Graph API using a certificate in a Power Automate HTTP connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;05&#x2F;call-microsoft-graph-api-using-a-certificate-in-a-power-automate-http-connector&#x2F;)
 <!--END_SECTION:feed-->
