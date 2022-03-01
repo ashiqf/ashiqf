@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Send Teams channel message aka proactive message using custom Teams bot and Power Automate – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;02&#x2F;28&#x2F;send-an-adaptive-card-message-in-teams-aka-proactive-message-using-custom-teams-bot-and-power-automate-part-1&#x2F;)
 * [Deep Link SharePoint News post in Teams using Adaptive card and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;01&#x2F;30&#x2F;deep-link-sharepoint-news-post-in-teams-using-adaptive-card-and-power-automate&#x2F;)
 * [Share Power Apps with Microsoft Teams Users](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;01&#x2F;30&#x2F;share-power-apps-with-microsoft-teams-users&#x2F;)
 * [Get deleted SharePoint site details using Microsoft Graph API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;01&#x2F;09&#x2F;get-deleted-sharepoint-site-details-using-microsoft-graph-api&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Conditional Power Automate flow triggers for SharePoint Online Pages and NEWS Post](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;06&#x2F;conditional-power-automate-flow-triggers-for-sharepoint-online-pages-and-news-post&#x2F;)
 * [How to use form-urlencoded content type in Power Automate Custom Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;11&#x2F;07&#x2F;how-to-use-form-urlencoded-content-type-in-power-automate-custom-connector&#x2F;)
 * [Create a Power Automate custom connector from Postman V2 Collection](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;29&#x2F;create-a-power-automate-custom-connector-from-postman-v2-collection&#x2F;)
-* [How to use form-data and form-urlencoded content type in Power Automate or Logic Apps HTTP action](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;07&#x2F;25&#x2F;how-to-use-form-data-and-form-urlencoded-content-type-in-power-automate-or-logic-apps-http-action&#x2F;)
 <!--END_SECTION:feed-->
