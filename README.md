@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [How to send an Adaptive card to a Microsoft Teams Private channel using Power Automate flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;12&#x2F;31&#x2F;how-to-send-an-adaptive-card-to-a-microsoft-teams-private-channel-using-power-automate-flow&#x2F;)
 * [Send Teams Activity Feed notification from Power Automate using custom Teams Bot](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;06&#x2F;11&#x2F;send-teams-activity-feed-notification-from-power-automate-using-custom-teams-bot&#x2F;)
 * [Call SharePoint REST API in a custom connector (Power Apps&#x2F;Power Automate)](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;05&#x2F;29&#x2F;call-sharepoint-rest-api-in-a-custom-connector-power-apps-power-automate&#x2F;)
 * [Send Teams channel message aka proactive message using custom Teams bot and Power Automate – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;03&#x2F;06&#x2F;send-teams-channel-message-aka-proactive-message-using-custom-teams-bot-and-power-automate-part-2&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Get deleted SharePoint site details using Microsoft Graph API](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;01&#x2F;09&#x2F;get-deleted-sharepoint-site-details-using-microsoft-graph-api&#x2F;)
 * [Handling nonexistent, null and multi value type properties in Parse JSON action](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;handling-nonexistent-null-and-multi-value-type-properties-in-parse-json-action&#x2F;)
 * [Parse an array without using Parse JSON action in Power Automate cloud flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;parse-an-array-without-using-parse-json-action-in-power-automate-cloud-flow&#x2F;)
-* [Effective Audience Targeting for SharePoint online NEWS Post using Term Store and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2021&#x2F;12&#x2F;31&#x2F;effective-audience-targeting-for-sharepoint-online-news-post-using-term-store-and-power-automate&#x2F;)
 <!--END_SECTION:feed-->
