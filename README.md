@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Streamlining Integration: Using Service Principal authentication on Custom connectors with Microsoft Graph Application Permissions](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;10&#x2F;28&#x2F;streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions&#x2F;)
 * [Convert Speech to Text using OpenAI Whisper in Power Apps](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;03&#x2F;19&#x2F;convert-speech-to-text-using-openai-whisper-in-power-apps&#x2F;)
 * [How to copy an existing DLP Policy in Power Platform](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;03&#x2F;19&#x2F;how-to-copy-an-existing-dlp-policy-in-power-platform&#x2F;)
 * [Uploading Files Made Easy: A Guide to Using the Attachment Control in Power Apps](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;03&#x2F;19&#x2F;uploading-files-made-easy-a-guide-to-using-the-attachment-control-in-power-apps&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Call SharePoint REST API in a custom connector (Power Apps&#x2F;Power Automate)](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;05&#x2F;29&#x2F;call-sharepoint-rest-api-in-a-custom-connector-power-apps-power-automate&#x2F;)
 * [Send Teams channel message aka proactive message using custom Teams bot and Power Automate – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;03&#x2F;06&#x2F;send-teams-channel-message-aka-proactive-message-using-custom-teams-bot-and-power-automate-part-2&#x2F;)
 * [Send Teams channel message aka proactive message using custom Teams bot and Power Automate – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;02&#x2F;28&#x2F;send-an-adaptive-card-message-in-teams-aka-proactive-message-using-custom-teams-bot-and-power-automate-part-1&#x2F;)
-* [Deep Link SharePoint News post in Teams using Adaptive card and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;01&#x2F;30&#x2F;deep-link-sharepoint-news-post-in-teams-using-adaptive-card-and-power-automate&#x2F;)
 <!--END_SECTION:feed-->
