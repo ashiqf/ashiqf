@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;01&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2&#x2F;)
 * [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;12&#x2F;31&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1&#x2F;)
 * [Streamlining Integration: Leveraging Service Principal Authentication for SQL Connector in Power Apps and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;11&#x2F;05&#x2F;streamlining-integration-leveraging-service-principal-authentication-for-sql-connector-in-power-apps-and-power-automate&#x2F;)
 * [Streamlining Integration: Using Service Principal authentication on Custom connectors with Microsoft Graph Application Permissions](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;10&#x2F;28&#x2F;streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Changing Connections in Connection References on a Managed Solution](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;01&#x2F;31&#x2F;changing-connections-in-connection-references-on-a-managed-solution&#x2F;)
 * [How to send an Adaptive card to a Microsoft Teams Private channel using Power Automate flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;12&#x2F;31&#x2F;how-to-send-an-adaptive-card-to-a-microsoft-teams-private-channel-using-power-automate-flow&#x2F;)
 * [Send Teams Activity Feed notification from Power Automate using custom Teams Bot](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;06&#x2F;11&#x2F;send-teams-activity-feed-notification-from-power-automate-using-custom-teams-bot&#x2F;)
-* [Call SharePoint REST API in a custom connector (Power Apps&#x2F;Power Automate)](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;05&#x2F;29&#x2F;call-sharepoint-rest-api-in-a-custom-connector-power-apps-power-automate&#x2F;)
 <!--END_SECTION:feed-->
