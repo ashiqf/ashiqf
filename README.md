@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Automate the assignment of Capacity Add-ons in Power Platform Environment using Power Automate Flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;31&#x2F;automate-the-assignment-of-capacity-add-ons-in-power-platform-environment-using-power-automate-flow&#x2F;)
 * [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 3](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;02&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-3&#x2F;)
 * [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;01&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2&#x2F;)
 * [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;12&#x2F;31&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [How to copy an existing DLP Policy in Power Platform](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;03&#x2F;19&#x2F;how-to-copy-an-existing-dlp-policy-in-power-platform&#x2F;)
 * [Uploading Files Made Easy: A Guide to Using the Attachment Control in Power Apps](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;03&#x2F;19&#x2F;uploading-files-made-easy-a-guide-to-using-the-attachment-control-in-power-apps&#x2F;)
 * [Changing Connections in Connection References on a Managed Solution](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;01&#x2F;31&#x2F;changing-connections-in-connection-references-on-a-managed-solution&#x2F;)
-* [How to send an Adaptive card to a Microsoft Teams Private channel using Power Automate flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2022&#x2F;12&#x2F;31&#x2F;how-to-send-an-adaptive-card-to-a-microsoft-teams-private-channel-using-power-automate-flow&#x2F;)
 <!--END_SECTION:feed-->
