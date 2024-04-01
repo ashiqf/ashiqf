@@ -35,6 +35,9 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Unlocking Snowflake Data Integration in Power Platform: Out of the box Snowflake connector – Part 3](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-out-of-the-box-snowflake-connector-part-3&#x2F;)
+* [Unlocking Snowflake Data Integration in Power Platform: Manipulating Snowflake REST API response in Custom Connector – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-manipulating-snowflake-rest-api-response-in-custom-connector-part-2&#x2F;)
+* [Unlocking Snowflake Data Integration in Power Platform: Using Custom Connector with Snowflake REST API – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-using-custom-connector-with-snowflake-rest-api-part-1&#x2F;)
 * [Text-to-Speech and Audio Playback in Power Apps using Azure and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;02&#x2F;29&#x2F;text-to-speech-and-audio-playback-in-power-apps-using-azure-and-power-automate&#x2F;)
 * [Automate the assignment of Capacity Add-ons in Power Platform Environment using Power Automate Flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;31&#x2F;automate-the-assignment-of-capacity-add-ons-in-power-platform-environment-using-power-automate-flow&#x2F;)
 * [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 3](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;02&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-3&#x2F;)
@@ -42,7 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;12&#x2F;31&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1&#x2F;)
 * [Streamlining Integration: Leveraging Service Principal Authentication for SQL Connector in Power Apps and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;11&#x2F;05&#x2F;streamlining-integration-leveraging-service-principal-authentication-for-sql-connector-in-power-apps-and-power-automate&#x2F;)
 * [Streamlining Integration: Using Service Principal authentication on Custom connectors with Microsoft Graph Application Permissions](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;10&#x2F;28&#x2F;streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions&#x2F;)
-* [Convert Speech to Text using OpenAI Whisper in Power Apps](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;03&#x2F;19&#x2F;convert-speech-to-text-using-openai-whisper-in-power-apps&#x2F;)
-* [How to copy an existing DLP Policy in Power Platform](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;03&#x2F;19&#x2F;how-to-copy-an-existing-dlp-policy-in-power-platform&#x2F;)
-* [Uploading Files Made Easy: A Guide to Using the Attachment Control in Power Apps](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;03&#x2F;19&#x2F;uploading-files-made-easy-a-guide-to-using-the-attachment-control-in-power-apps&#x2F;)
 <!--END_SECTION:feed-->
