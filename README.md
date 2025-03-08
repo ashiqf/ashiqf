@@ -35,7 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
-* [Automating Meeting Notes with Microsoft Graph API and Azure OpenAI – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2025&#x2F;02&#x2F;28&#x2F;automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-part-1&#x2F;)
+* [Automating Meeting Notes with Microsoft Graph API and Azure OpenAI in Power Platform – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2025&#x2F;02&#x2F;28&#x2F;automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-part-1&#x2F;)
 * [Unlocking Snowflake Data Integration in Power Platform: Out of the box Snowflake connector – Part 3](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-out-of-the-box-snowflake-connector-part-3&#x2F;)
 * [Unlocking Snowflake Data Integration in Power Platform: Manipulating Snowflake REST API response in Custom Connector – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-manipulating-snowflake-rest-api-response-in-custom-connector-part-2&#x2F;)
 * [Unlocking Snowflake Data Integration in Power Platform: Using Custom Connector with Snowflake REST API – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-using-custom-connector-with-snowflake-rest-api-part-1&#x2F;)
