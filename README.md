@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Calling Dataverse Web API using Delegated Permissions in a Custom Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2025&#x2F;03&#x2F;29&#x2F;calling-dataverse-web-api-using-delegated-permissions-in-a-custom-connector&#x2F;)
 * [Automating Meeting Notes with Microsoft Graph API and Azure OpenAI in Power Platform – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2025&#x2F;03&#x2F;09&#x2F;automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-in-power-platform-part-2&#x2F;)
 * [Automating Meeting Notes with Microsoft Graph API and Azure OpenAI in Power Platform – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2025&#x2F;02&#x2F;28&#x2F;automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-part-1&#x2F;)
 * [Unlocking Snowflake Data Integration in Power Platform: Out of the box Snowflake connector – Part 3](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-out-of-the-box-snowflake-connector-part-3&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Automate the assignment of Capacity Add-ons in Power Platform Environment using Power Automate Flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;31&#x2F;automate-the-assignment-of-capacity-add-ons-in-power-platform-environment-using-power-automate-flow&#x2F;)
 * [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 3](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;02&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-3&#x2F;)
 * [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;01&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2&#x2F;)
-* [Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2023&#x2F;12&#x2F;31&#x2F;streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1&#x2F;)
 <!--END_SECTION:feed-->
