@@ -35,6 +35,7 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
   
 ### 📙 My Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Access  API’s in Power Platform Without Secrets Using Managed Identity in Custom Connectors](https:&#x2F;&#x2F;ashiqf.com&#x2F;2026&#x2F;03&#x2F;10&#x2F;access-apis-in-power-platform-without-secrets-using-managed-identity-in-custom-connectors&#x2F;)
 * [Enabling Real Time Alerts using Microsoft Graph in Power Platform – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2025&#x2F;04&#x2F;30&#x2F;enabling-real-time-alerts-using-microsoft-graph-in-power-platform-part-2&#x2F;)
 * [Enabling Real Time Alerts using Microsoft Graph in Power Platform – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2025&#x2F;03&#x2F;31&#x2F;enabling-real-time-alerts-using-microsoft-graph-in-power-platform-part-1&#x2F;)
 * [Calling Dataverse Web API using Delegated Permissions in a Custom Connector](https:&#x2F;&#x2F;ashiqf.com&#x2F;2025&#x2F;03&#x2F;29&#x2F;calling-dataverse-web-api-using-delegated-permissions-in-a-custom-connector&#x2F;)
@@ -44,5 +45,4 @@ I am a blogger, speaker and a open-source contributor. I have learnt a lot and l
 * [Unlocking Snowflake Data Integration in Power Platform: Manipulating Snowflake REST API response in Custom Connector – Part 2](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-manipulating-snowflake-rest-api-response-in-custom-connector-part-2&#x2F;)
 * [Unlocking Snowflake Data Integration in Power Platform: Using Custom Connector with Snowflake REST API – Part 1](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;03&#x2F;31&#x2F;unlocking-snowflake-data-integration-in-power-platform-using-custom-connector-with-snowflake-rest-api-part-1&#x2F;)
 * [Text-to-Speech and Audio Playback in Power Apps using Azure and Power Automate](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;02&#x2F;29&#x2F;text-to-speech-and-audio-playback-in-power-apps-using-azure-and-power-automate&#x2F;)
-* [Automate the assignment of Capacity Add-ons in Power Platform Environment using Power Automate Flow](https:&#x2F;&#x2F;ashiqf.com&#x2F;2024&#x2F;01&#x2F;31&#x2F;automate-the-assignment-of-capacity-add-ons-in-power-platform-environment-using-power-automate-flow&#x2F;)
 <!--END_SECTION:feed-->
